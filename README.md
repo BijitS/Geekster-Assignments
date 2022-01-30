@@ -21,3 +21,19 @@ Java Practice Includes:-
 
 1. Write a program that checks if a number is a Prime number. take the user input.
 2. Java Program to calculate power of a number
+
+Java Practice 2 Includes;-
+
+1. Check if a year is leap year or not
+2. Find permutation and combination of numbers
+3. Java Program To Calculate Distance Between Two Points
+4. Sum of even and odd digits
+5. Reverse a number
+6. WAP to print first x terms of the series 3N + 2 which are not multiples of 4.
+7. Compound Intrest
+
+Java Concept 3 Includes:- 
+
+1. Left Triangle Star Pattern
+2. Pyramid Pattern
+3. Diamond Shape Pattern
